@@ -1,0 +1,71 @@
+body{
+	background-image: url("http://minecrafthelp.tk/mc-ccn/css/background2.jpg");
+}
+
+form#hashtag{
+	position: center;
+	margin-top: 5%;
+}
+
+input#hashtagsearch{
+	text-align: center;
+}
+
+footer{
+	text-align: center;
+	font-size: 65%;
+	margin-top: 2%;
+	font-family: 'Quicksand', sans-serif;
+}
+
+button#credits{
+	margin-top: 9%;
+	font-family: 'Quicksand', sans-serif;
+}
+
+h1#banner{
+	margin-bottom: 1%;
+	font-family: 'Quicksand', sans-serif;
+}
+
+h5#banner2{
+	margin-bottom: 3%;
+	font-family: 'Quicksand', sans-serif;
+}
+
+.btn-lg{
+	width: 125px;
+	height: auto;
+	font-size: 85%;
+	background-color: hsl(214, 37%, 28%) !important;
+	color: #fff !important;
+	border-color: #5e1111 #5e1111 hsl(0, 69%, 17%);
+	font-family: 'Quicksand', sans-serif;
+}
+
+.img-circle{
+	width: 75px;
+	margin-left: 2%;
+	margin-top: 20%;
+	height: auto;
+}
+
+.credits{
+	margin-top: 1%;
+	margin-bottom: -4%;
+	text-align: center;
+}
+
+.btn-success{
+	 background-color: hsl(145, 62%, 68%) !important;
+	 color: #333 !important;
+	 border-color: #7adfa4 #7adfa4 hsl(145, 62%, 63%);
+}
+
+.modal-body{
+	font-family: 'Quicksand', sans-serif;
+}
+
+.img-circle{
+	margin-top: 10%;
+}
